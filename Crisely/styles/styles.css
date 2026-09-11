@@ -1,0 +1,66 @@
+
+
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+
+}    
+
+h1{
+    text-align: center;
+}
+
+
+p{
+    font-weight: bold
+}    
+
+
+    img{
+        border-radius: 20px;
+        width: 200px;
+        height: 200px;
+}
+
+
+a{
+    text-decoration:none;
+}
+
+
+h3{
+    text-decoration: underline;
+}
+
+
+mark{
+    background-color: blueviolet;
+}
+
+
+button{
+    background-color: aqua;
+    color: brown;
+}
+
+
+button:hover{
+    background-color:antiquewhite;
+    color:antiquewhite;
+    cursor: pointer;
+}
+
+
+header{
+    background-color: bisque;
+}
+
+main{
+    background-color: peru;
+}
+
+footer{
+    background-color: brown;
+}
